@@ -1,7 +1,3 @@
-Absolutely! Here's a detailed and well-organized README file template for your GitHub repository. This README will help you showcase your A/B test analysis project, making it clear and attractive to potential employers or collaborators.
-
----
-
 # A/B Test Analysis with Country Segmentation
 
 ![A/B Test Analysis](https://img.shields.io/badge/AB_Testing-Analysis-blue)
@@ -32,7 +28,7 @@ The project uses two main datasets:
 - **Null Hypothesis (H₀)**: There is no difference in conversion rates between the control and treatment groups.
 - **Alternative Hypothesis (H₁)**: There is a difference in conversion rates between the control and treatment groups.
 
-A z-test was used to compare the conversion rates of the control and treatment groups, with a significance level (\(\alpha\)) set at 0.05.
+A z-test was used to compare the conversion rates of the control and treatment groups, with a significance level (alpha) set at 0.05.
 
 ## Analysis
 
