@@ -2,7 +2,7 @@
 
 ![A/B Test Analysis](https://img.shields.io/badge/AB_Testing-Analysis-blue)
 ![Python](https://img.shields.io/badge/Python-3.8+-green)
-![License](https://img.shields.io/badge/License-MIT-orange)
+
 
 ## Overview
 
